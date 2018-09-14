@@ -1,21 +1,19 @@
 # PortfolioSite
 
-##A Responsive Portfolio Website with HTML5, CSS3 & SASS
+## A Responsive Portfolio Website with HTML5, CSS3 & SASS
 
 ### Running the app
 
 1. Ensure you have `npm` installed.
 
+2) Install the dependencies
 
-
-2. Install the dependencies
-
-````
+```
 npm install
-````
+```
 
-3. run sass
-````
+3. run with sass
+
+```
 npm run sass
-
-````
+```
